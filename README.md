@@ -1,16 +1,48 @@
-### Hi there 👋
+# Hi there 👋
+[![Visits Badge](https://badges.pufler.dev/visits/Zaysevkun/Zaysevkun)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Zaysevkun)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/Zaysevkun/Zaysevkun)](https://badges.pufler.dev)
+[![Codewars Badge](https://www.codewars.com/users/zaysevkun/badges/micro)](https://www.codewars.com/users/on3dd)
 
-<!--
-**Zaysevkun/Zaysevkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me 🤡
+👨‍💻 Greetings! I am Veniamin, backend deloper from Vladivostok, Russia. 
 
-Here are some ideas to get you started:
+🐬 Currently working on Python/Django/DRF, practicing Golang and Typescript/Vue 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Far Eastern Ferederal University graduate of bachelor's program "Mathematics and Computer Science".
+
+### Technology stack 🔥
+#### Languages
+- Python
+- Golang
+- Typescript
+
+#### Front-end
+- Vue
+- Vuex
+- Babel
+- Webpack
+
+#### Back-end
+- Django/DRF
+- Celery
+- Chi
+
+#### Databases
+- MongoDB
+- PostgreSQL
+
+#### Other
+- Docker
+- Websockets
+- Redis, RabbitMQ
+
+### Interests 😍
+- WebDesign
+- Microservices
+
+
+### Github stats 📊
+![Zaysevkun's github stats](https://github-readme-stats.vercel.app/api?username=Zaysevkun&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaysevkun&layout=compact)](https://github.com/Zaysevkun/github-readme-stats)
