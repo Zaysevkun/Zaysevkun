@@ -4,7 +4,7 @@
 [![Created Badge](https://badges.pufler.dev/created/Zaysevkun/Zaysevkun)](https://badges.pufler.dev)
 [![Codewars Badge](https://www.codewars.com/users/zaysevkun/badges/micro)](https://www.codewars.com/users/on3dd)
 
-### About me 🤡
+### About me 👀
 👨‍💻 Greetings! I am Veniamin, backend deloper from Vladivostok, Russia. 
 
 🐬 Currently working on Python/Django/DRF, practicing Golang and Typescript/Vue 
