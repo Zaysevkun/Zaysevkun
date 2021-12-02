@@ -7,7 +7,7 @@
 ### About me 👀
 👨‍💻 Greetings! I am Veniamin, Backend deloper from Vladivostok, Russia. 
 
-🐬 Currently working on Python/Django/DRF, practicing Golang and Typescript/Vue 
+🐬 Currently working on Python/Django/DRF, practicing Golang and Python/FastAPI
 
 🎓 Far Eastern Ferederal University graduate of bachelor's program "Mathematics and Computer Science".
 
@@ -15,18 +15,11 @@
 #### Languages
 - Python
 - Golang
-- Typescript
-
-#### Front-end
-- Vue
-- Vuex
-- Babel
-- Webpack
 
 #### Back-end
 - Django/DRF
+- FastAPI
 - Celery
-- Chi
 
 #### Databases
 - MongoDB
@@ -36,9 +29,9 @@
 - Docker
 - Websockets
 - Redis, RabbitMQ
+- Apache Kafka
 
 ### Interests 😍
-- WebDesign
 - Microservices
 
 
