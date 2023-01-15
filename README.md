@@ -1,11 +1,7 @@
 # Hi there 👋
-[![Visits Badge](https://badges.pufler.dev/visits/Zaysevkun/Zaysevkun)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Zaysevkun)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/Zaysevkun/Zaysevkun)](https://badges.pufler.dev)
-[![Codewars Badge](https://www.codewars.com/users/zaysevkun/badges/micro)](https://www.codewars.com/users/on3dd)
 
 ### About me 👀
-👨‍💻 Greetings! I am Veniamin, Backend deloper from Vladivostok, Russia. 
+👨‍💻 Greetings! I am Veniamin, Backend deloper from Tbilisi, Georgia. 
 
 🐬 Currently working on Python/Django/DRF, practicing Golang and Python/FastAPI
 
