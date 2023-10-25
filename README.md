@@ -1,9 +1,9 @@
 # Hi there 👋
 
 ### About me 👀
-👨‍💻 Greetings! I am Veniamin, Backend deloper from Tbilisi, Georgia. 
+👨‍💻 Greetings! I am Veniamin, Backend developer from Tbilisi, Georgia. 
 
-🐬 Currently working on Python/Django/DRF, practicing Golang and Python/FastAPI
+🐬 Currently working as a Senior Software engineer specializing in Backend and Python.
 
 🎓 Far Eastern Ferederal University graduate of bachelor's program "Mathematics and Computer Science".
 
@@ -27,7 +27,7 @@
 - Redis, RabbitMQ
 - Apache Kafka
 
-### Interests 😍
+### Interests
 - Microservices
 
 
