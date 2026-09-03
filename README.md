@@ -3,7 +3,7 @@
 ### About me 👀
 👨‍💻 Greetings! I am Veniamin, Backend developer from Tbilisi, Georgia. 
 
-🐬 Currently working as a Senior Software engineer specializing in Backend and Python.
+🐬 Currently working as a Senior Software engineer specializing in Backend and with Go and Python.
 
 🎓 Far Eastern Ferederal University graduate of bachelor's program "Mathematics and Computer Science".
 
